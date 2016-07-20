@@ -15,7 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    NSLog(@"ssd");
+    NSLog(@"good to see you");
     
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
