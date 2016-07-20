@@ -15,7 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    NSLog(@"good to see you");
+    NSLog(@"good to see you ggggg");
     
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
